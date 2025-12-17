@@ -41,7 +41,7 @@ Reports are created as new tabs: `TeamName_YYYY_MM`
 1. Select the Category column range (e.g., `B2:B1000`)
 2. Go to **Data → Data Validation**
 3. Select **Dropdown (from a list of items)**
-4. Enter these categories:
+4. Enter these categories (or your own):
    ```
    Travel, Meals & Entertainment, Software & Subscriptions, Office Supplies, Equipment & Hardware, Professional Services, Training & Development
    ```
@@ -75,7 +75,7 @@ const CONFIG = {
 };
 ```
 
-### Step 6: Authorize the Script
+### Step 6: Authorize the Script (Please note that the app is currently unregistered but safe to test)
 
 1. In Apps Script editor, click **Run** (any function)
 2. Click **Review Permissions**
